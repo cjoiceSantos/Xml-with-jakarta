@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pessoa id="1">
+    <nome>José</nome>
+    <endereco>
+        <rua>Rua Ayrton Senna</rua>
+        <bairro>Nova Parnamirim</bairro>
+        <cidade>Parnamirim</cidade>
+        <estado>RN</estado>
+    </endereco>
+    <dependentes>
+        <dependente id="1">
+            <nome>Maria</nome>
+        </dependente>
+        <dependente id="2">
+            <nome>João</nome>
+        </dependente>
+        <dependente id="3">
+            <nome>Joana</nome>
+        </dependente>
+    </dependentes>
+</pessoa>
